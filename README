@@ -18,3 +18,13 @@ Configure automatically searches for all required components and packages.
 
 To compile and install run:
 	make && make install
+
+git repo
+
+
+git://git.kernel.org/pub/scm/bluetooth/sbc.git
+https://git.kernel.org/pub/scm/bluetooth/sbc.git
+https://kernel.googlesource.com/pub/scm/bluetooth/sbc.git
+
+web access:
+http://git.kernel.org/cgit/bluetooth/sbc.git
